@@ -1,7 +1,7 @@
 # Kutuphane Sistemi 
 # Genel Özet
 ## Not
-Bu proje ilk olarak Python(Flask) kullanılarak Veritabanı ve yönetim sistemleri dersi için yazılmıştır. Projenin pythonla yazılmış haline ulaşmak için [buraya](https://github.com/MustafaErenn/kutuphane-sistemi) tıklayınız
+Bu proje ilk olarak Python(Flask) kullanılarak Veritabanı ve yönetim sistemleri dersi için yazılmıştır. Projenin pythonla yazılmış haline ulaşmak için [buraya](https://github.com/MustafaErenn/kutuphane-sistemi) tıklayınız. Bu repodaki hali ise php öğrenmek ve kendimi geliştirmek için aynı projenin php kullanılarak yazılmış versiyonudur.
 ## Proje Amacı
 Kütüphanelerin üye ve kitap yönetim işlemlerini kolaylaştırmak.
 
